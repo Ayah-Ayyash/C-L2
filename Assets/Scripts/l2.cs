@@ -28,6 +28,10 @@ public class l2 : MonoBehaviour
             if (playerLives == 0)
             {
                 Debug.Log("Game Over!");
+                Debug.Log("Game Over!");
+                Debug.Log("Game Over!");
+                Debug.Log("Game Over!");
+
              
 
             }
