@@ -31,6 +31,8 @@ public class l2 : MonoBehaviour
                 Debug.Log("Game Over!");
                 Debug.Log("Game Over!");
                 Debug.Log("Game Over!");
+                Debug.Log("Game Over!");
+
 
              
 
